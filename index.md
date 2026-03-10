@@ -1,6 +1,4 @@
-# CtrlAltVerse
-
-[ctrl.altvers.net](https://ctrl.altvers.net)
+See all projects in [ctrl.altvers.net](https://ctrl.altvers.net)
 
 ## Plugins, Frameworks, etc
 
