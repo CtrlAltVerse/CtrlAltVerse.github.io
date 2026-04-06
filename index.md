@@ -1,7 +1,8 @@
 See all projects in [ctrl.altvers.net](https://ctrl.altvers.net)
 
-## Plugins, Frameworks, etc
+## Plugins, Frameworks, Extensions
 
-- [CAV Utilities for WordPress](https://ctrlaltverse.github.io/wordpress/)
-- [CAV Alpine](https://ctrlaltverse.github.io/alpine/)
-- [CAV Tailwind Resources](https://www.npmjs.com/package/@ctrlaltvers/tailwind)
+- [For VS Code](https://marketplace.visualstudio.com/items?itemName=CtrlAltVerse.cav-extension)
+- [For WordPress](https://ctrlaltverse.github.io/wordpress/)
+- [For Alpine](https://ctrlaltverse.github.io/alpine/)
+- [For Tailwind](https://www.npmjs.com/package/@ctrlaltvers/tailwind)
